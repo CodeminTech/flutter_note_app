@@ -96,7 +96,7 @@ This means users can manage their tasks without requiring an external backend or
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/MobinaFetrati/flutter_note_app.git
+git clone https://github.com/CodeminTech/flutter_note_app.git
 ```
 
 ### 2️⃣ Navigate to the project
@@ -135,10 +135,10 @@ This project was developed to practice and demonstrate:
 
 ## 👩‍💻 Developer
 
-**Mobina Fetrati**
+**CodemonTech**
 
 Flutter Developer | Mobile Application Developer
 
 🔗 GitHub:
-[https://github.com/MobinaFetrati](https://github.com/MobinaFetrati)
+GitHub: https://github.com/CodeminTech
 
